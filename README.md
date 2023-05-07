@@ -1,6 +1,6 @@
 ### This is the PyTorch implementation of the CIFAR10 dataset
 
-> Including model: LeNet, VGGNet, GoogleNet, ResNet, ShuffleNet, SENet, DenseNet... The model code is available in the `model` folder
+> Including model: LeNet, VGGNet, GoogleNet, ResNet, ShuffleNet, SENet, DenseNet... The model code is available in the `models` folder
 
 ### Environment Configuration
 ```
